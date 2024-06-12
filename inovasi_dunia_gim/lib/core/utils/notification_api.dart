@@ -54,10 +54,6 @@ class NotificationApi {
       int? month,
       int? year // required DateTime timer
       }) async {
-    print(hour);
-    print(minutes);
-    print(date);
-    print(hour);
     _notifications.zonedSchedule(
         id,
         title,
