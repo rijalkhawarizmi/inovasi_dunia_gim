@@ -4,6 +4,7 @@ import 'package:inovasi_dunia_gim/src/home/presentation/bloc/schedules/schedules
 import 'core/route/routes.dart';
 import 'core/utils/notification_api.dart';
 import 'package:timezone/data/latest_all.dart' as tz;
+//halooo
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
